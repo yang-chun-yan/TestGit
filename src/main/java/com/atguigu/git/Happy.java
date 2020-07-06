@@ -7,6 +7,6 @@ package com.atguigu.git;
 */
 public class Happy {
  public static void main(String[] args) {
-	System.out.println("I'm happy!!");
+	System.out.println("I'm happy!! right....");
 }
 }
