@@ -10,5 +10,6 @@ public class Happy {
 	System.out.println("I'm happy!! right....");
 	System.out.println("I'm happy!! left.....");
 	System.out.println("hot fix.....");
+	System.out.println("Playing game makes me happy!");
 }
 }
